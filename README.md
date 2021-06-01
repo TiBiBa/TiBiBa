@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Timon Bakker!
+- 👀 I’m currently working on a Gradual Feedback Model (GFM) for the Hedy programming language while working on my Master Thesis!
