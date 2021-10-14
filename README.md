@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Timon Bakker!
-- 👀 I’m currently working on a Gradual Feedback Model (GFM) for the Hedy programming language while working on my Master Thesis!
+- 👀 I just finished my Master Computer Science at Leiden University and I'm currently working as a front-end developer on the Hedy programming language.
+- Favourite languages are Python, PHP, HTML, CSS and Javascript!
